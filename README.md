@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **optimizing cloud costs by evaluation AWS Sagemaker for hosting our custom AI/ML models. Also redesigning some of the most chatty i/o applications to reduce DB load**
 
-- 🌱 I finsihed my MBA and I’m currently learning **AI and ML, focus on AWS**
+- 🌱 I finished my MBA and I’m currently learning **AI and ML, focus on AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shen-ks](https://github.com/shen-ks)
 

@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Shen</h1>
 <h3 align="center">A passionate Software Architect / Engineering Manager in Chicago</h3>
 
-- 🔭 I’m currently working on **optimizing cloud costs by rearchitecting some of the most chatty i/o applications**
+- 🔭 I’m currently working on **optimizing cloud costs by evaluation AWS Sagemaker for hosting our custom AI/ML models. Also redesigning some of the most chatty i/o applications to reduce DB load**
 
-- 🌱 I’m currently learning **MBA and Cybersecurity**
+- 🌱 I finsihed my MBA and I’m currently learning **AI and ML, focus on AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shen-ks](https://github.com/shen-ks)
 

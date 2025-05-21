@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 - 📝 I regularly write articles on [Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6975094216016216065](Subscribe on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=6975094216016216065)
 
-- 💬 Ask me about ** Full Stack Development in Java, JS, DS Algorithms, AWS, Azure, GCP, DevOps, FinOps and Cybersecurity from a Developers perspective**
+- 💬 Ask me about Full Stack Development in Java, JS, DS Algorithms, AWS, Azure, GCP, DevOps, FinOps and Cybersecurity from a Developers perspective
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">📫 **shen_ks@outlook.com**
+<p align="left">📫 shen_ks@outlook.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

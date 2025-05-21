@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **Java, JS, Algorithms, AWS Development, DevOps, FinOps**
 
-- 📫 How to reach me **shen_ks@outlook.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">📫 **shen_ks@outlook.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
